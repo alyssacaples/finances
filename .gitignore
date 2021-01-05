@@ -126,3 +126,4 @@ dmypy.json
 
 # Personal
 config.py
+credentials_mint.json
